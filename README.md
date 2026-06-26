@@ -38,3 +38,6 @@ It demonstrates database design, relationships, and advanced SQL queries.
 
 ## 👨‍💻 Author
 Mohammed Ashik
+Aspiring Data Analyst | Sql Developer
+
+Skills: Power BI • SQL • Python • Excel
