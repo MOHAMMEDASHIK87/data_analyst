@@ -1,43 +1,41 @@
+# 📊 Business Sales Analytics Dashboard
 
-# Online Store Management System (MySQL Project)
+An interactive **Power BI Dashboard** designed to analyze business sales performance through dynamic visualizations and KPIs.
 
-## 📌 Project Overview
-This project is a MySQL-based Online Store Management System designed for an organic skincare store.
-It demonstrates database design, relationships, and advanced SQL queries.
+## 🚀 Features
 
-## 🛠 Tools Used
-- MySQL
-- MySQL Workbench
-- GitHub
+- 📈 Sales & Profit Analysis
+- 💰 KPI Cards (Overall Sales, Sales MTD, Same Period Last Year)
+- 🌍 Country-wise Sales & Profit Analysis
+- 👥 Customer Demographics Analysis
+- 📅 Year & Month Interactive Slicers
+- 📊 Dynamic Charts and Treemap
+- ⚡ Interactive Dashboard
 
-## 📂 Database Tables
-- Customers
-- Products
-- Orders
-- OrderDetails
-- Payments
+## 🛠️ Technologies Used
 
-## 🔗 Relationships
-- Customers → Orders (One-to-Many)
-- Orders → OrderDetails (One-to-Many)
-- Products → OrderDetails (One-to-Many)
-- Orders → Payments (One-to-One)
+- Power BI
+- DAX
+- Power Query
+- Microsoft Excel
 
-## 📊 SQL Concepts
-- DDL, DML
-- Joins
-- Subqueries
-- Aggregate Functions
-- GROUP BY, ORDER BY
+## 📷 Dashboard Preview
 
-## ▶️ How to Run
-1. Create database using schema script
-2. Run table creation queries
-3. Insert sample data
-4. Execute queries
+Add your dashboard screenshots here:
+
+- `dashboard1.png`
+- `dashboard2.png`
+- `dashboard3.png`
+
+## 📂 Project Files
+
+- `PowerBI-Sales-Dashboard.pbix` – Power BI Dashboard
+- `README.md` – Project Documentation
 
 ## 👨‍💻 Author
-Mohammed Ashik
-Aspiring Data Analyst | Sql Developer
 
-Skills: Power BI • SQL • Python • Excel
+**Mohammed Ashik**
+
+Aspiring **Data Analyst | Power BI Developer**
+
+**Skills:** Power BI • SQL • Python • Excel
